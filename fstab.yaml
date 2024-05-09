@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Ozts9zSPgLuE20Exe83KN6x4FxzxdxZS
+  /:
+    url: https://content.da.live/kchauatadobe/coleman/
+    type: markup
