@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--coleman--AdobeDevXSC.hlx.page/
-- Live: https://main--coleman--AdobeDevXSC.hlx.live/
+- Preview: https://main--coleman--kchauatadobe.hlx.page/
+- Live: https://main--coleman--kchauatadobe.hlx.live/
 
 ## Installation
 
