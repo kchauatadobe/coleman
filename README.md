@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Coleman website using dark alley as the content repository
 
 ## Environments
 - Preview: https://main--coleman--kchauatadobe.hlx.page/
